@@ -2,7 +2,7 @@
 Linear regression model designed to predict an NFL team's next year win total. Also includes EDA notebooks and web scrape scripts. This was my second project but first personal project during the Metis Data Science Bootcamp. 
 
 The main files here are:
-1) best_scape_nfl.ipynb
+1) best_scape_nfl.ipynb<br>
 This notebook contains all of the scripts and processes that I wrote in order to web-scrape several years of NFL team based statistics from various free online resources. 
 
 2) NFL_EDA_1.ipynb
