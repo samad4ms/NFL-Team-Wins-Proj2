@@ -6,7 +6,7 @@ The main files here are:
 This notebook contains all of the scripts and processes that I wrote in order to web-scrape several years of NFL team based statistics from various free online resources. 
 
 2) NFL_EDA_1.ipynb<br>
-Brief exploratory data analysis notebook used to analyise correlations, trends and the features I enginnered like net-points. 
+Brief exploratory data analysis notebook used to analyise correlations, trends and the features I engineered like net-points. 
 
 3) FINAL_MODEL.ipynb<br>
 As the file name suggests, this notebook contains the code for training and testing various linear regression models and includes the final model I used as well as the final metric (r squared and MAE) scores. 
